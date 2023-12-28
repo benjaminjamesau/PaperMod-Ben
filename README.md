@@ -1,4 +1,4 @@
-<h1 align=center>Hugo PaperMod | <a href="https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Demo</a></h1>
+<h1 align=center>Hugo PaperMod | <a href="https://github.com/benjaminjamesau/PaperMod-ben/" rel="nofollow">Demo</a></h1>
 
 <h4 align=center>☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive</h4>
 <br>
@@ -8,7 +8,7 @@
 
 **Documentation** can be found here: [**📚 Wiki**](https://github.com/adityatelange/hugo-PaperMod/wiki)
 
-**ExampleSite** can be found here: [**exampleSite**](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite). Demo is built up with [exampleSite](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite) as source.
+**ExampleSite** can be found here: [**exampleSite**](https://github.com/benjaminjamesau/PaperMod-ben/tree/exampleSite). Demo is built up with [exampleSite](https://github.com/benjaminjamesau/PaperMod-ben/tree/exampleSite) as source.
 
 [![hugo-papermod](https://img.shields.io/badge/Hugo--Themes-@PaperMod-blue)](https://themes.gohugo.io/themes/hugo-papermod/)
 [![Minimum Hugo Version](https://img.shields.io/static/v1?label=min-HUGO-version&message=>=v0.112.4&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.112.4)
